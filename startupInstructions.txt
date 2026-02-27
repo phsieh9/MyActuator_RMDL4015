@@ -1,3 +1,6 @@
 Install python
 Install python-can
 Open Windows powershell and enter py -m pip install python-can 
+
+
+need to zadig drivers on EVERY computer
